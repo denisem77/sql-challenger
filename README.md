@@ -12,4 +12,16 @@ All of those actions will showcase my ability to perform:
 -Data engineering
 -Data analysis
 
+SOFTWARE NEEDED
+This project used pgADMIN 4
+
+DataSource
+The files needed for the project was provided by the course. The data was given as a CSV file. The files were to be imported into pgAdmin into the tables created.
+
+Code Explanation
+
+Results and Evaluation
+
+Acknowledgments
+
 Please enjoy...
